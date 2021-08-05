@@ -16,8 +16,6 @@
   <ol>
     <li>
       <a href="#about-the-task">About The Task</a>
-      <u/l>
-        <li><a href="#about-the-data">About The Data</a></li>
       </ul>
         <li><a href="#the-code">The Code</a></li>
       <ul>
@@ -48,11 +46,6 @@ To normalize the data to create a graph and measure the area underneath some par
 5. Plot in the X axis "Position(mm)" and "Fraction number" and in Y axis the "Absorbance".
 6. Adjust the y-axis manually, as for visual comparison all the graphs should have the same y-value.
 7. Calculate the area underneath the curve of specific fractions.
-
-<!-- ABOUT THE DATA -->
-## About The Data
-In the data file:
-the position (mm) describes the x axis and the absorbance describes the y axis which need to be normalised. The other numbers are not that important for the analysis.
 
 <!-- THE CODE -->
 ## The Code
