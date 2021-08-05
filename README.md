@@ -62,7 +62,7 @@ To normalize the data to create a graph and measure the area underneath some par
 ### Outputs
 
 - Figure with "Position(mm)" and "Fraction number" on X axis and "Absorbance" values, normalized, on Y axis. The range of Y axis values is adjustable.
-The plots are saves in PDF format.
+The plots are saved in PDF format.
 
 <img src="https://github.com/ElisaLancini/images/blob/c6067f4077b2eac2a35e6ffde27222c1d6e5c1b2/Screenshot%202021-08-05%20at%2013.41.17.png" alt="workshop logo" width="600" style="margin:0 0 0 0"/>
 
