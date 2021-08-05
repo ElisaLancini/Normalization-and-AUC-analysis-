@@ -37,7 +37,7 @@
 
 <!-- ABOUT THE TASK -->
 ## About The Task 
-To normalize the data to create a graph and measure the area underneath some parts of that graph, to compare them with each other. 
+R-based code for normalising data and measuring the AUC.
 
 1. A suction cup is removing a liquid from a falcon from top to bottom and passing it trough a UV-meter and then directly into Eppendorf tubes. After a specific volume the data which was passed through the UV-meter is marked as fraction 1 and the arm which puts the liquid into the eppendorf tubes moves to the second one, so that the next volume unit is measured and put into the new tube. and so on till 13. The rest (after fraction 13) is still measured but remains in the tubing so it can be dismissed. The absorbances before the first number which do not have a assinged fraction number belong to fraction 1. everything after fraction number one till number 2 ( line 220-389) belong to fracion number 2.
 2. The data related to the buffer needs to be removed. However, not every datasheet will report the data related to the buffer in the same rows. Therefore the fractions that belongs to the buffer needs to be specified manually per each datasheet.
